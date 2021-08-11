@@ -1,0 +1,55 @@
+{
+  "_from": "github:jaggle/eds-ui",
+  "_id": "eds-ui@1.0.3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/eds-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "eds-ui@github:jaggle/eds-ui",
+    "name": "eds-ui",
+    "escapedName": "eds-ui",
+    "rawSpec": "github:jaggle/eds-ui",
+    "saveSpec": "github:jaggle/eds-ui",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:jaggle/eds-ui#b8a2ed3bdb45794c6bbe9b3a53cdb121e6ec15c6",
+  "_spec": "eds-ui@github:jaggle/eds-ui",
+  "_where": "C:\\Users\\x\\projects\\vmoex-framework-master",
+  "author": {
+    "name": "Jaggle"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaggle/eds-ui/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "a minimalist frontend tool for backend users",
+  "devDependencies": {
+    "gulp-minify": "^3.1.0"
+  },
+  "homepage": "https://github.com/Jaggle/eds-ui",
+  "jshintConfig": {
+    "esversion": 6
+  },
+  "keywords": [
+    "frontend",
+    "javascript component"
+  ],
+  "license": "MIT",
+  "main": "edsUI.js",
+  "name": "eds-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaggle/eds-ui.git"
+  },
+  "version": "1.0.3"
+}

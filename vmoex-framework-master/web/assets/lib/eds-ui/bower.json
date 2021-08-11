@@ -1,0 +1,6 @@
+{
+    "name": "eds-ui",
+    "dependencies": {
+        "bootstrap": "*"
+    }
+}
